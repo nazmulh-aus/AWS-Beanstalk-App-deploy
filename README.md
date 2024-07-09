@@ -11,10 +11,9 @@ As part of a university project, this initiative focused on deploying a PHP appl
 2. Configured AWS Elastic Beanstalk environments for development, testing, and production.
 3. Deployed the PHP application, ensuring it was scalable across different regions.
 4. Implemented load balancing to distribute traffic evenly and enhance application availability.
-5. Automated deployment processes using CI/CD pipelines.
-6. Monitored and optimized application performance on AWS.
-7. Conducted testing to ensure application reliability and scalability.
-8. Documented the deployment process and best practices.
+5. Monitored and optimized application performance on AWS.
+6. Conducted testing to ensure application reliability and scalability.
+7. Documented the deployment process and best practices.
 # Technologies Used:
 1. AWS Elastic Beanstalk.
 2. AWS services such as S3, RDS, CloudWatch, and Load Balancer.
